@@ -21,7 +21,7 @@ I look for candidates who:
 
 A PhD in my group is demanding and not suitable for everyone. 
 
-Please note that due to the volume of requests I am not able to reply to individual emails about PhD opportunities.
+Please note that due to the volume of requests **I am not able to reply to individual emails about PhD opportunities**.
 
 If you are still excited about joining my team:
 
@@ -31,9 +31,23 @@ If you are still excited about joining my team:
 **Applications or emails that do not follow this process will not be considered.**
 
 ## Scholarships
-Applicants requiring funding must apply in the first gathering field (deadline in December check the University website) and are encouraged to seek external scholarships (industry, government, foundations).
+Applicants requiring funding must apply in the first gathering field (deadline in December) to be considered for the [Clarendon Scholarship](https://www.ox.ac.uk/clarendon). This scholarship is highly competitive, please check selection criteria [here](https://www.ox.ac.uk/clarendon/information-for-applicants/selection-criteria). 
+Check for other scholarship available from the university [here](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/scholarships) and [here](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search).
 
-If you already have a scholarship, please indicate in the form above.
+You can also get a scholarship if you apply for Centre for Doctoral Training (CDT), please check for the specific application deadlines in the related website. please indicate me as supervisor. 
+I can be supervisor for:
+
+- [AIMS CDT](https://aims.robots.ox.ac.uk/study)
+- [Intelligent Earth CDT](https://www.ox.ac.uk/admissions/graduate/courses/intelligent-earth-cdt)
+- [RAINZ CDT](https://ori.ox.ac.uk/projects/rainz-epsrc-cdt-in-robotics-and-ai-for-net-zero)
+
+you are also encouraged to seek external scholarships (industry, government, foundations).
+
+If you already have a scholarship, please indicate in the form linked above.
+
+
+
+
 
 
 
