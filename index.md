@@ -5,8 +5,8 @@ I am also Deputy Director of the Oxford Robotics Institute (ORI) and PI of the S
 
 I work on tactile sensing, soft robotics, and embodied intelligence, bridging sensing hardware, control, and real-world robotic physical interaction.
 
-- [Linkedin](www.linkedin.com/in/perla-maiolino-0837453a)
-- [google scholar](https://scholar.google.com/citations?user=PbtP5MoAAAAJ&hl=it)
+- Follow me on [LinkedIn](www.linkedin.com/in/perla-maiolino-0837453a)
+- [Google Scholar](https://scholar.google.com/citations?user=PbtP5MoAAAAJ&hl=it)
 
 
 
