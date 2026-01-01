@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Prospective PhD Students
+permalink: /phd/
+---
 
 Due to the volume of requests and limited funded positions, I am not able to respond to individual emails about PhD opportunities.
 
