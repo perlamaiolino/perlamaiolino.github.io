@@ -5,13 +5,13 @@ permalink: /phd/
 ---
 
 I supervise PhD students working on tactile sensing, soft robotics, and embodied intelligence.
-Please check SRL website(https://ori.ox.ac.uk/labs/srl/research-soft-robotics) to check ongoing research themes in my group and publications(https://ori.ox.ac.uk/labs/srl/soft-robotics-publications)
+Please check [SRL website](https://ori.ox.ac.uk/labs/srl/research-soft-robotics) to check ongoing research themes and [publications](https://ori.ox.ac.uk/labs/srl/soft-robotics-publications) in my group.
 
 My group is small, and I work closely with students, so research fit and motivation are essential.
 
 Due to the limited availability of funded positions (see below), I am only able to consider a small number of candidates each year.
 
-What I look for
+## What I look for
 I look for candidates who:
 
 - are genuinely curious about research (not just applications or trends),
@@ -25,10 +25,17 @@ Please note that due to the volume of requests I am not able to reply to individ
 
 If you are still excited about joining my team:
 
-1 Apply through the formal university process (e.g. DPhil/MRes/CDTs), and
-2 Complete the short form(https://forms.gle/Whzm9LK7c9n1wnot8) that is designed to help both you and me assess whether this is a good fit.
+1 Apply through the formal university process (e.g. DPhil/MRes/CDTs) indicating me as supervisor, and
+2 Complete the [short form](https://forms.gle/Whzm9LK7c9n1wnot8) that is designed to help both you and me assess whether this is a good fit.
 
-Applications or emails that do not follow this process will not be considered.
+**Applications or emails that do not follow this process will not be considered.**
+
+## Scholarships
+Applicants requiring funding must apply in the first gathering field (deadline in December check the University website) and are encouraged to seek external scholarships (industry, government, foundations).
+
+If you already have a scholarship, please indicate in the form above.
+
+
 
 
 
