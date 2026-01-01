@@ -1,9 +1,10 @@
 title: Perla Maiolino
 theme: minima
+footer_links: []
 
 header_pages:
   - index.md
   - research.md
   - phd.md
 
-footer_links: []
+
