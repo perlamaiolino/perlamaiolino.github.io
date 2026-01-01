@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Research
+permalink: /research/
+---
 
 My work focuses on tactile sensing and embodied intelligence for robotics, bridging sensing hardware, control, and real-world interaction.
 
