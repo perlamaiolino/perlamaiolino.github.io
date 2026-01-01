@@ -5,9 +5,6 @@ I am an Associate Professor at the University of Oxford (ORI) and a Tutorial Fel
 I work on tactile sensing, soft robotics, and embodied intelligence, bridging sensing hardware, control, and real-world robotic physical interaction.
 
 
-- [Research](research.md)
-- [Prospective PhD Students](phd.md)
-
 
 
 
