@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  background: url("/assets/images/IMG_0659(2).jpg") center/cover no-repeat;
+  padding: 2.5rem 0;
+}
+
+.site-title, .site-nav a {
+  color: white !important;
+  font-weight: 600;
+  text-shadow: 0 1px 10px rgba(0,0,0,0.35);
+}
+
+.site-nav .page-link {
+  color: white !important;
+}
