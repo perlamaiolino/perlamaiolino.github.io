@@ -1,2 +1,8 @@
-theme: minima
 title: Perla Maiolino
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - phd.md
+  - contact.md
